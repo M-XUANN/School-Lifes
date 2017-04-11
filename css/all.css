@@ -436,6 +436,7 @@ a#a4:hover {
 
 .tab .tab_pic ul li {
     float: left;
+    list-style: none;
 }
 
 .tab .tab_pic ul li a {
